@@ -1,0 +1,7 @@
+<AudioAnalysis>
+  <Windowing FrameLength='0.04s' FrameStep='0.02s' Type='Hamming'>
+    <MelEnergy NFilter='50' NFFT='2048' LowFreqz='25' HighFreqz='22050' >
+      <Log Output='mel_static' />
+    </MelEnergy>
+  </Windowing>
+</AudioAnalysis>
