@@ -11,7 +11,7 @@ import resampy
 
 
 """
-Zhao Shuyang, contact@zsy.fi
+Zhao Shuyang, contact@zhaoshuyang.com
 """
 
 class AudioFileProcessor:
